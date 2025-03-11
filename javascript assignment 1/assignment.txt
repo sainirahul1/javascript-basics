@@ -1,0 +1,28 @@
+<script>
+ 1a.alert('Good morning!');
+ 1b.alert('Rahul');
+</script>
+
+console--code
+1c.10+5
+15
+
+1d.20-5
+15
+
+1e.2+2-5
+-5
+
+1f.document.innerHTML='Good morning!';
+
+1g.document.innerHTML='RAHUL';
+
+1h.10+8+20
+ 38
+
+1i.100-20-50
+230
+
+1j.document.innerHTML=''; 
+
+
